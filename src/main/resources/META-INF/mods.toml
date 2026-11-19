@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="imamkhomeinimod"
+version="1.0.0"
+displayName="Imam Khomeini Historical Character"
+description='''A respectful historical character mod project for Minecraft Forge 1.20.1.'''
